@@ -47,7 +47,7 @@ class GameObject:
     Doc string2
     """
 
-    def __init__(self, body_color, position):
+    def __init__(self, body_color=None, position=None):
         """
         Doc string1
         Doc string2
